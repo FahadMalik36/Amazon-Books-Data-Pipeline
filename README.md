@@ -47,10 +47,16 @@ Data is passed between tasks using Airflow **XCom**.
 ## Screenshots
 
 ### Airflow DAG — All tasks succeeded
-![Airflow DAG Graph](screenshots/airflow_dag.png)
+![Airflow DAG Graph](https://github.com/user-attachments/assets/7b923e43-9c76-496d-b416-298ed3ad979e)
+
+![Airflow DAG Graph 2](https://github.com/user-attachments/assets/f98a1d69-f38a-4292-b8a3-fae1a30d848f)
 
 ### pgAdmin — Data loaded into PostgreSQL
-![pgAdmin Table](screenshots/pgadmin_table.png)
+![pgAdmin Table](https://github.com/user-attachments/assets/0cb0dc66-249c-4bb1-9b15-96e04bd8d5c7)
+
+![pgAdmin Dashboard](https://github.com/user-attachments/assets/1cf18147-cf3f-43ef-b906-e25534b6617d)
+
+![pgAdmin Table Data](https://github.com/user-attachments/assets/8abb9446-79d6-40e6-b5af-8b2d9e1aafbe)
 
 ---
 

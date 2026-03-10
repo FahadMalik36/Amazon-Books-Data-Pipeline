@@ -69,8 +69,8 @@ Data is passed between tasks using Airflow **XCom**.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/amazon-books.git
-   cd amazon-books
+   git clone https://github.com/FahadMalik36/Amazon-Books-Data-Pipeline.git
+   cd Amazon-Books-Data-Pipeline
    ```
 
 2. Start all services:
